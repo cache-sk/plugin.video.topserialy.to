@@ -1,0 +1,37 @@
+# Kodi Media Center language file
+# Addon Name: Topserialy.to
+# Addon id: plugin.video.topserialy.to
+# Addon Provider: cache-sk
+msgid ""
+msgstr ""
+
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sk\n"
+
+msgctxt "#30000"
+msgid "Topserialy.to"
+msgstr "Topserialy.to"
+
+msgctxt "#30001"
+msgid "New episodes"
+msgstr "Nové epizódy"
+
+msgctxt "#30002"
+msgid "All series"
+msgstr "Všetky seriály"
+
+msgctxt "#30003"
+msgid "next page"
+msgstr "nasledujúca stránka"
+
+msgctxt "#30004"
+msgid "Episodes"
+msgstr "Epizódy"
+
+msgctxt "#30005"
+msgid "Choose stream"
+msgstr "Vyberte stream"
+
+msgctxt "#30006"
+msgid "Sorry, can't resolve url to playable video."
+msgstr "Sorry, nedokážem to prehrať. Možno výpadok, možno to už neexistuje, ale možno mi captcha zabránila rozoznať umiestnenie."
